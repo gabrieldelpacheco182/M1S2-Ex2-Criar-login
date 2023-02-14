@@ -1,6 +1,6 @@
 function login() {
   const nameInput = document.getElementById("login").value;
-  const passwordInput = document.getElementById("passWord").value;
+  const passwordInput = document.getElementById("password").value;
 
   console.log(passwordInput);
 
